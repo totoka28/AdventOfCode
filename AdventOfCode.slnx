@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AdventOfCode/AdventOfCode.csproj" />
+  <Project Path="Day1/Day1.csproj" />
+  <Project Path="Day2/Day2.csproj" Id="bc8524a6-a99e-4871-b675-9f6a650ba885" />
+  <Project Path="Day3/Day3.csproj" Id="980aebee-a2c7-40a3-b352-d2bbb98e4357" />
+  <Project Path="Day4/Day4.csproj" Id="56a7fbca-9eb3-445c-8426-a645921b27f4" />
+</Solution>
